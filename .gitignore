@@ -1,0 +1,13 @@
+# 数据集 (1.9GB, 远超 GitHub 单文件 100MB 限制, 不入库)
+torchvision-stanford-cars/
+
+# 大模型权重 (每个 45MB)
+Module.pt
+Module_ResNet18_backup.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
